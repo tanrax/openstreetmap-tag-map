@@ -5,7 +5,7 @@ Label to generate the openstreetmap iframe from the country and region.
 ## Demo
 
 ``` html
-<map address="valencia" region="spain" delay="0" width="100%" height="300"></map>
+<map address="valencia" region="spain" width="100%" height="300"></map>
 ```
 
 Build the following result:
@@ -46,5 +46,5 @@ Build the following result:
 ### 4 Add the HTML tag with your settings
 
 ``` html
-<map address="valencia" region="spain" delay="0" width="100%" height="300"></map>
+<map address="valencia" region="spain" width="100%" height="300"></map>
 ```
