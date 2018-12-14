@@ -2,6 +2,16 @@
 
 Label to generate the openstreetmap iframe from the country and region.
 
+## Demo
+
+``` html
+<map address="valencia" region="spain" delay="0" width="100%" height="300"></map>
+```
+
+Build the following result:
+
+<iframe src="https://min.gitcdn.link/cdn/tanrax/openstreetmap-tag-map/master/example.html"></iframe>
+
 ## Install
 
 ### 1 Add Javascript dependencies.
