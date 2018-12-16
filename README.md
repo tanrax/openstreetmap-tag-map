@@ -28,7 +28,7 @@ Build the following result:
 <script src="https://cdn.jsdelivr.net/gh/tanrax/openstreetmap-tag-map@1.0.0/tag.map" type="riot/tag"></script>
 ```
 
-### 2 Mount Riot
+### 2 Mount Component
 
 ``` html
 <script>
