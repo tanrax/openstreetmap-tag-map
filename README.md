@@ -10,7 +10,7 @@ Label to generate the openstreetmap iframe from the country and region.
 
 Build the following result:
 
-<img src="https://min.gitcdn.link/cdn/tanrax/openstreetmap-tag-map/master/demo.jpg">
+<img src="https://cdn.jsdelivr.net/gh/tanrax/openstreetmap-tag-map/demo.jpg">
 
 ## Install
 
